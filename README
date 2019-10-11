@@ -1,0 +1,4 @@
+The code in this project was written in an anaconda environment running python 2
+The only additional library that needs to be installed is the keras deep learning library
+    This can be installed using the anaconda installer
+All other utilities used should come with vanilla anaconda
